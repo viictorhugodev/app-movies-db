@@ -1,0 +1,19 @@
+{
+  "name": "appmovies",
+  "version": "1.0.0",
+  "description": "Actualizado consumo APIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viictorhugodev/app-movies-db.git"
+  },
+  "author": "ViikDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viictorhugodev/app-movies-db/issues"
+  },
+  "homepage": "https://github.com/viictorhugodev/app-movies-db#readme"
+}
